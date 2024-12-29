@@ -1,5 +1,3 @@
-Tentu, berikut adalah dokumentasi proyek yang diperbaiki, termasuk penjelasan tentang dataset:
-
 ---
 
 # **Student Depression Prediction: Logistic Regression From Scratch Using Gradient Descent**
@@ -116,5 +114,3 @@ Proyek ini dibuat oleh **Sanjukin Pinem**. Jika Anda memiliki pertanyaan, saran,
 Kami juga membuka peluang kolaborasi! Silakan berkontribusi melalui pull request di [repository GitHub](https://github.com/S4njuuu3291/binary-classifier-scratch).
 
 --- 
-
-Semoga ini membantu menyempurnakan dokumentasi Anda! 😊
