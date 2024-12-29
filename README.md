@@ -87,6 +87,10 @@ Dataset **Student Depression** yang diambil dari [Student Depression Dataset](ht
 - Model dievaluasi menggunakan **Binary Cross-Entropy Loss** untuk mengukur performa selama pelatihan.
 - **Confusion Matrix** digunakan untuk mengukur akurasi prediksi dan distribusi kesalahan model.
 
+### **Akurasi Model**
+- Model Logistic Regression : **85.21%**
+- Model Polynomial Logistic Regression : **85.10%**
+
 **Visualisasi Hasil:**
 
 **Learning Curve** dan **Confusion Matrix**:
